@@ -8,7 +8,7 @@ This program reads well header data and production logs (exported from Drilling 
 * os  
 * numpy  
 * pandas  
-* matplotlib version 1.5.3  
+* matplotlib version 3.8.0  
 * mpl_toolkits.basemap  
   
 ## 0.0 Provide .csv of Well production data and .csv of well header data
