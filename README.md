@@ -19,9 +19,9 @@ The following is an explanation of the Arps decline curve equations and why the 
    - The harmonic decline curve is used when production decline follows a linear pattern, where the production rate decreases linearly with time.
    - It's less common in practice and is typically used for wells with constant bottom-hole pressure or wells that are under boundary-dominated flow conditions.
 
-The choice of which Arps decline curve to use depends on the characteristics of the well and the observed production behavior. In many cases, the hyperbolic decline curve is preferred for several reasons:
+The choice of which Arps decline curve to use depends on the characteristics of the well and the observed production behavior. However, in over the years this model has been used, the hyperbolic decline curve is preferred for several reasons:
 
-- Realism: The hyperbolic curve reflects the typical behavior of oil and gas wells, where production often experiences an initial rapid decline followed by a slower decline rate as the reservoir pressure decreases.
+- Its Realism: The hyperbolic curve reflects the typical behavior of oil and gas wells, where production often experiences an initial rapid decline followed by a slower decline rate as the reservoir pressure decreases.
 
 - Flexibility: The hyperbolic curve allows for a wide range of decline behaviors by adjusting the "b-factor" (n). This flexibility makes it suitable for a variety of well types and conditions.
 
