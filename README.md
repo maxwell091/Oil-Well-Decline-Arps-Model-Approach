@@ -29,7 +29,6 @@ The choice of which Arps decline curve to use depends on the characteristics of 
 
 - Ease of Interpretation: The parameters of the hyperbolic decline curve (initial rate, "b-factor," and decline rate) are relatively easy to interpret and have physical meaning in the context of well behavior.
 
-In summary, the hyperbolic decline curve from the Arps model is often preferred for oil and gas production analysis because it offers a realistic representation of well decline behavior and provides a good balance between simplicity and accuracy in forecasting future production rates. However, it's essential to consider the specific characteristics of each well and the available data when choosing the appropriate decline curve model.
 
 
 ### ENVIRONMENT  
