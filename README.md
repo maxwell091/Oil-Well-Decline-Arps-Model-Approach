@@ -1,5 +1,5 @@
 # Oil-Well-Decline-Arps-Model-Approach
-This program reads well header data and production logs (exported from Drilling Info as .csv files) and walks the user through the generation of decline curves for each well provided in the input data. Decline curves are fit with a hyperbolic curve that is estimated using an iterative least squares method.
+This program reads well header data and production logs (imported as .csv files) and walks the user through the generation of decline curves for each well provided in the input data. Decline curves are fit with a hyperbolic curve that is estimated using an iterative least squares method.
 
 The Arps model, named after its developer J.J. Arps, is a set of mathematical equations used in oil and gas production forecasting to describe how the production rate of a well declines over time. The Arps model provides three primary decline curve equations: exponential, hyperbolic, and harmonic. Each of these equations is used to represent different types of production decline behaviors observed in real-world oil and gas wells.
 
