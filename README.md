@@ -3,7 +3,7 @@ This program reads well header data and production logs (imported as .csv files)
 
 The Arps model, named after its developer J.J. Arps, is a set of mathematical equations used in oil and gas production forecasting to describe how the production rate of a well declines over time. The Arps model provides three primary decline curve equations: exponential, hyperbolic, and harmonic. Each of these equations is used to represent different types of production decline behaviors observed in real-world oil and gas wells.
 
-Here's an explanation of the Arps decline curve equations and why the hyperbolic curve is often preferred:
+The following is an explanation of the Arps decline curve equations and why the hyperbolic curve is often preferred by petroleoum engineers:
 
 1. Exponential Decline (n = 0):
    - The exponential decline curve represents a scenario where the rate of production decline is constant over time.
